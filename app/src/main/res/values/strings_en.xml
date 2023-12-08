@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">Back</string>
+    <string name="w_shl_st">Wıshlıst</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="release_date">Release Date:</string>
+    <string name="genres">Genres:</string>
+    <string name="publisher">Publisher:</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="visit_reddit">Visit Reddit</string>
+    <string name="games">  </string>
+    <string name="clear_f_lters">Clear Fılters</string>
+    <string name="navbar_games">Games</string>
+    <string name="navbar_wishlist">Wishlist</string>
+</resources>

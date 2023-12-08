@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/navbar_games"
+        android:id="@+id/navbar_games"
+        android:icon="@drawable/ic_baseline_videogame_asset_24"/>
+    <item
+        android:title="@string/navbar_wishlist"
+        android:id="@+id/navbar_wishlist"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"/>
+</menu>
